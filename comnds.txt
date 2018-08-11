@@ -1,0 +1,191 @@
+    1  cd /e
+    2  clear
+    3  mkdir formation-ang
+    4  cd formation-ang
+    5  ng new salam-angular
+    6  cd salam-angular
+    7  clear
+    8  code
+    9  ng serve
+   10  ng serve
+   11  cd e
+   12  cd salam-angular
+   13  cd /e
+   14  cd /formation-ang
+   15  cd /salam-angular
+   16  cd /formation-ang
+   17  clear
+   18  cd formation-ang
+   19  cd salam-angular
+   20  code
+   21  ng serve
+   22  clear
+   23  npm install -g typescript
+   24  cd /e
+   25  cd /projects
+   26  cd projects
+   27  npm install -g typescript
+   28  npm install --g typescript
+   29  tsc --version
+   30  node -v
+   31  studo npm install -g typescipt
+   32  sudo npm install -g typescript
+   33  npm install -g typescript
+   34  tsc --version
+   35  clear
+   36  mkdir typescript
+   37  code typescript/main.ts
+   38  cd typescript
+   39  tsc main.ts
+   40  ls
+   41  code main.js
+   42  node main.js
+   43  cd /e
+   44  cd typescript
+   45  code
+   46  node main.ts
+   47  node main.ts
+   48  clear
+   49  node main.ts
+   50  node main.ts
+   51  node main.js
+   52  node main.ts
+   53  clear
+   54  node main.ts
+   55  node main.js
+   56  clear
+   57  node main.ts
+   58  cd /E:
+   59  cd /e
+   60  cd typescript
+   61  code main.ts
+   62  node main.ts
+   63  node main.ts
+   64  node main.ts
+   65  clear
+   66  node main.ts
+   67  clear
+   68  node main.js
+   69  node main.ts
+   70  cd /e
+   71  cd typescript
+   72  code main.ts
+   73  tsc main.ts && node main.js
+   74  clear
+   75  tsc main.ts &&node main.js
+   76  node main.js
+   77  tsc main.ts &&node main.js
+   78  tsc main.ts &&node main.js
+   79  tsc main.ts && node main.js
+   80  clear
+   81  tsc main.ts éénode main.js
+   82  tsc --target'es5'main.ts &&node main.js
+   83  tsc main.ts &&node main.js
+   84  clear
+   85  tsc main.in.ts &&node main.js
+   86  tsc main.ts &&node main.js
+   87  mkdir con.ts
+   88  code con.ts
+   89  code main.ts
+   90  code main.ts
+   91  code node.js
+   92  code main.js
+   93  clear
+   94  code main.ts
+   95  code con.ts
+   96  code con.ts
+   97  ng serve
+   98  cd /e
+   99  cd formation-ang
+  100  cd salam-angular
+  101  ng serve
+  102  cd /e
+  103  cd formation-ang
+  104  cd salam-angular
+  105  code 
+  106  ng serve
+  107  pwd
+  108  cd .m2
+  109  cd .m2
+  110  cd e/
+  111  cd e:
+  112  cd formation-ang
+  113  cd salam angular
+  114  ng server
+  115  code
+  116  ng server
+  117  clear
+  118  cd salam-angular/
+  119  code
+  120  ng serve
+  121  cd e:
+  122  cd formation-angulaire
+  123  cd formation-ang
+  124  cd salam-angular/
+  125  npm install bootstrap
+  126  clear
+  127  cd e:
+  128  cd formation-ang
+  129  cd salam-angulaire/
+  130  cd salam angular
+  131  cd salam-angular/
+  132  code
+  133  cd e:
+  134  cd formation-ang
+  135  cd salam-angulaire/
+  136  cd salam-angulare/
+  137  cd salam-angular/
+  138  code
+  139  ng serve
+  140  ng serve --open
+  141  cd e:
+  142  cd e:
+  143  cd formation-ang
+  144  cd salam-angular/
+  145  code
+  146  ng serve --open
+  147  cd e:
+  148  cd formation-ang
+  149  ng new ContactWeb
+  150  cd e:
+  151  cd foration-ang
+  152  cd formation-ang
+  153  ng new ContactWeb
+  154  cd ContactWeb/
+  155  code
+  156  code
+  157  ng serve
+  158  cd e:
+  159  cd formation-ang
+  160  cd ContactWeb
+  161  code
+  162  ls
+  163  pwd
+  164  cd pfe
+  165  ls
+  166  pwd
+  167  ls
+  168  ls -l
+  169  git
+  170  LS
+  171  cd ..
+  172  mkdir PFE_JAVA
+  173  cd PFE_JAVA/
+  174  cp  -r ~/Desktop/ProjetsSTS/Ma-banque/* .
+  175  ls
+  176  git init
+  177  git add README.md
+  178  nano REDME.md
+  179  git add README.md
+  180  ls
+  181  mv REDME.md README.md
+  182  git add README.md
+  183  git commit -m "first commit"
+  184  git remote add origin https://github.com/KrainiAmor/PFE_JAVA.git
+  185  git push -u origin master
+  186  amor_kraine@hotmail.com
+  187  git push -u origin master
+  188  git lg
+  189  history
+  190  git log
+  191  history >>comnds.txt
